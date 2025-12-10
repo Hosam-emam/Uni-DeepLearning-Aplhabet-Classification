@@ -11,3 +11,4 @@ wheels/
 
 # Data folders
 *Data/
+*.npy
